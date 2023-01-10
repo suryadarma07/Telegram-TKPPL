@@ -1,2 +1,5 @@
 SignIn
 User dapat melakukan login atau sign ke dalam aplikasi menggunakan akun telegram dan akan diminta kode verifikasi pada aplikasi mobile sebagai validasi user.
+
+Logout
+Selain melakukan login, user juga dapat melakukan logout terhadap akun tersebut melalui menu setting.

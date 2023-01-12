@@ -6,3 +6,6 @@ Selain melakukan login, user juga dapat melakukan logout terhadap akun tersebut 
 
 Add new friend
 Ketika memasuki menu Contact, maka akan muncul kontak yang sudah user simpan dan dapat menambah kontak hanya dengan klik "new contact" kemudian isi seluruh data yang diperlukan.
+
+Chat
+User dapat melakukan chat dengan kontak yang sudah ditambahkan.

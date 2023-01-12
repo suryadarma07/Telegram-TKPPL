@@ -9,3 +9,6 @@ Ketika memasuki menu Contact, maka akan muncul kontak yang sudah user simpan dan
 
 Chat
 User dapat melakukan chat dengan kontak yang sudah ditambahkan.
+
+Multiple Language
+User dapat mengganti bahasa yang digunakan pada menu setting sesuai dengan bahasa yang tersedia.

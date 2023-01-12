@@ -8,4 +8,4 @@
 
 Akun yang digunakan untuk bisa menggunakan telegram tersebut tidak boleh akun yang baru dibuat, akun yang dipakai harus berupa akun lama.
 
-Dikarenakan ketidakmampuan kami dalam melakukan split code, maka kami hanya bisa melakukan design ulang terhadap tampilan yang tersedia dan melakukan push sesuai dengan design [Trello](https://trello.com/b/RCYVMA7a/deux-telegram-web).
+Dikarenakan ketidakmampuan kami dalam melakukan split code, maka kami hanya bisa melakukan design ulang terhadap tampilan yang tersedia pada [Figma](https://www.figma.com/file/kXbvAqN3sBdXQiydLJPDXy/Untitled?node-id=116%3A3295&t=kwqhh8PmDEQBUZSh-0) dan melakukan push sesuai dengan design [Trello](https://trello.com/b/RCYVMA7a/deux-telegram-web).

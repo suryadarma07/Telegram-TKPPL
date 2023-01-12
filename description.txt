@@ -12,3 +12,6 @@ User dapat melakukan chat dengan kontak yang sudah ditambahkan.
 
 Multiple Language
 User dapat mengganti bahasa yang digunakan pada menu setting sesuai dengan bahasa yang tersedia.
+
+Username
+User dapat menambah username sebagai samaran dari nomor telepon.

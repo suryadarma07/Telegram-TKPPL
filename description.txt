@@ -15,3 +15,6 @@ User dapat mengganti bahasa yang digunakan pada menu setting sesuai dengan bahas
 
 Username
 User dapat menambah username sebagai samaran dari nomor telepon.
+
+Voice Chat
+User dapat mengirim voice chat atau pesan suara hanya dengan menekan tombol mic yang ada pada room chat.

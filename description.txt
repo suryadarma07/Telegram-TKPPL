@@ -18,3 +18,6 @@ User dapat menambah username sebagai samaran dari nomor telepon.
 
 Voice Chat
 User dapat mengirim voice chat atau pesan suara hanya dengan menekan tombol mic yang ada pada room chat.
+
+Reply Message
+User dapat menandai pesan yang dibalas dengan mudah yaitu dengan menekan tombol reply setelah melakukan select message

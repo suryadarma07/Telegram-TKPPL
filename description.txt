@@ -24,3 +24,6 @@ User dapat menandai pesan yang dibalas dengan mudah yaitu dengan menekan tombol 
 
 New Group
 User dapat membuat grup chat yang berisikan lebih dari dua orang pada menu yang tersedia
+
+Multiple Profile Picture
+User dapat menambahkan lebih dari satu profile picture hanya mengeklik icon kamera dan melakukan upload foto.

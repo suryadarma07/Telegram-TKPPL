@@ -22,6 +22,9 @@ User dapat mengirim voice chat atau pesan suara hanya dengan menekan tombol mic 
 Reply Message
 User dapat menandai pesan yang dibalas dengan mudah yaitu dengan menekan tombol reply setelah melakukan select message
 
+Edit Message
+User dapat mengedit pesan yang telah dikirim hanya dengan select message dan klik Edit.
+
 New Group
 User dapat membuat grup chat yang berisikan lebih dari dua orang pada menu yang tersedia
 

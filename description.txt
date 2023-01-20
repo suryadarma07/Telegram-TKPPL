@@ -27,3 +27,6 @@ User dapat membuat grup chat yang berisikan lebih dari dua orang pada menu yang 
 
 Multiple Profile Picture
 User dapat menambahkan lebih dari satu profile picture hanya mengeklik icon kamera dan melakukan upload foto.
+
+Tracking Session
+User dapat melihat semua session yang berhubungan dengan akun user tersebut pada menu setting.

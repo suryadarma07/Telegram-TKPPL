@@ -30,3 +30,6 @@ User dapat membuat grup chat yang berisikan lebih dari dua orang pada menu yang 
 
 Multiple Profile Picture
 User dapat menambahkan lebih dari satu profile picture hanya mengeklik icon kamera dan melakukan upload foto.
+
+Forward
+User dapat melakukan forward/teruskan pesan dari suatu room chat ke room chat lainnya.

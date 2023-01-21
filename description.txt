@@ -33,3 +33,6 @@ User dapat menambahkan lebih dari satu profile picture hanya mengeklik icon kame
 
 Forward
 User dapat melakukan forward/teruskan pesan dari suatu room chat ke room chat lainnya.
+
+Tracking Session
+User dapat melihat semua session yang berhubungan dengan akun user tersebut pada menu setting.

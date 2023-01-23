@@ -33,3 +33,6 @@ User dapat menambahkan lebih dari satu profile picture hanya mengeklik icon kame
 
 Tracking Session
 User dapat melihat semua session yang berhubungan dengan akun user tersebut pada menu setting.
+
+Delete Message
+User bisa menghapus pesan yang diterima maupun dikirim, jika pesan yang ingin dihapus adalah pesan yang diterima, maka user tidak bisa menghapus pesan tersebut dari telegram dan hanya bisa menghapusnya dari perangkat. Sedangkan jika pesan yang ingin di hapus adalah pesan yang dikirim, maka user dapat menghapus pesan tersebut baik di perangkat saja ataupun dari telegram.
